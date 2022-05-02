@@ -1,7 +1,7 @@
 # Exercicio1Data2504
 ##Exercicio 1 dia 25/04
 
-####Inicio 
+Inicio 
  - Enquanto existir notas ? faça
    - ler notas 
    - calcular media final
