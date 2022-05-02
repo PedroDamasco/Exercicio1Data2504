@@ -3,9 +3,9 @@
 
 Inicio 
  - Enquanto existir notas ? faça
-   - ler notas 
-   - calcular media final
-   - exibir media final
- - Fim enquanto
--Fim
+   - Ler notas;
+   - Calcular media final; ( AC1+AC2+AG+AF )
+   - Exibir media final;
+ - Fim enquanto;
+-Fim;
   
